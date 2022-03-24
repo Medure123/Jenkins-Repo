@@ -15,7 +15,7 @@ class CheckEvenOdd
      * else odd number*/
     if ( num % 2 == 0 )
 
-<<<<<<< HEAD
+<<<<<<< HEAD123
 int num;
     System.out.println("Enter an Integer number:");
 
